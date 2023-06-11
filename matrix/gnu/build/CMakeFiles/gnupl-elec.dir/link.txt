@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnupl-elec.a CMakeFiles/gnupl-elec.dir/gnupl-elec.cpp.o
+/usr/bin/ranlib libgnupl-elec.a
